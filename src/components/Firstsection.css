@@ -1,0 +1,24 @@
+section > p{
+    padding-top: 50px;
+    color:green;
+    font-weight: bold;
+    font-size: 1.3em;
+    text-align: center;
+}
+section > h2{
+    font-size: 3em;
+    padding-bottom: 40px;
+}
+
+.contentContainer{
+    padding: 200px;
+    display: flex;
+    gap: 300px;
+    font-size: 12px;
+    text-align: left;
+    line-height: 20px;
+}
+
+/* contentBox1:nth-child("1")::before{
+    background-image: url('/public/Bilder/brush.svg');
+} */
